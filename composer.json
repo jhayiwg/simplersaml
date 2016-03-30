@@ -1,12 +1,12 @@
 {
-    "name": "ragingdave/simplersaml",
+    "name": "jhayiwg/simplersaml",
     "description": "Allows Simpler integration of SimpleSAML and Laravel.",
     "keywords": [ "laravel", "illuminate", "simplesaml", "saml" ],
     "license": "MIT",
     "authors": [
         {
-            "name": "David Cox Jr.",
-            "email": "davemc08@gmail.com"
+            "name": "Jhay-ar.",
+            "email": "jhayghost@yahoo.com"
         }
     ],
     "require": {

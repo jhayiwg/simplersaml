@@ -3,7 +3,10 @@
 return [
 	// Configured SP name that this application will use
 	'sp' => 'default-sp',
-
+	
+	// Directory of your sp
+	'spPath' =>  __DIR__ . '/../../../../../../../simplesamlsp',
+	
 	// Configured IDP to authenticate against
 	'idp' => 'https://openidp.feide.no',
 
